@@ -1,0 +1,6 @@
+name = "discord-bot"
+main = "src/index.js"
+compatibility_date = "2023-02-23"
+
+[vars]
+DISCORD_PUBLIC_KEY = "e3c6aa5a1741c01592b0d7322f32470802b641d4fc213b48d95acb069abefbf3"
